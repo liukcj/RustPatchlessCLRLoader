@@ -19,7 +19,7 @@ windows = { version = "0.54.0", features = [
     "Win32_System_WindowsProgramming",
     "Win32_System_Diagnostics_ToolHelp"
     ]}
-clroxide = { version = "1.0.6", default-features = true }
+clroxide = { path = "../clroxide", default-features = true }
 rc4 = "0.1.0"
 base64 = "0.13.0"
 widestring = "0.4.3"

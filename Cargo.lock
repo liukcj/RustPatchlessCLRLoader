@@ -32,8 +32,6 @@ dependencies = [
 [[package]]
 name = "clroxide"
 version = "1.1.1"
-source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "281a172ac3da6f4bed28fa7078c514d348f04d0540288dd79d2854c9a60b4ef3"
 dependencies = [
  "windows 0.46.0",
 ]
